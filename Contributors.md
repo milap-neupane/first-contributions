@@ -249,6 +249,7 @@ aalbusoiu
 - [epiphian](https://github.com/epiphian)
 - [Chandu](https://github.com/chandu2004)
 - [Rishabh Sharma]
+- [Milap Neupane](https://github.com/milap-neupane)
 - [MOHAMMED FAIZAAN MUZAWAR](https://github.com/faizaan-mm)
 - Shlok Agarwal
 - [Tyler Clark]
